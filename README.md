@@ -4,6 +4,9 @@
 
 This repository contains original practice questions and model answers for preparation. They are not official PKSF questions and do not guarantee exam coverage.
 
+## Start here: ranked exam-ready material
+See [`exam-ready/`](exam-ready/README.md) for section-wise, importance-ranked questions and model answers, and [`study-plan/final-sprint-17-21-nov.md`](study-plan/final-sprint-17-21-nov.md) for the final sprint schedule.
+
 ## Exam blueprint
 | Section | Topic | Marks | Repository material |
 |---|---|---:|---|
